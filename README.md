@@ -7,9 +7,9 @@ In this dashboard :
 - work on Power Query, Power pivot and DAX functions.
 - Generated Dashboards for different modules.
 
-Theory : 
+### Theory : 
 
-### Employee Attrition
+#### Employee Attrition
 
 ATTRITION RATE (%) = (Number of leaves / number of employees) x 100
 Attrition is the gradual reduction of a workforce as employees leave or retire. This is usually measured by what is called the attrition rate. Most employers want a low attrition rate because it means that employees are satisfied and they don't have to train new people.
@@ -19,7 +19,7 @@ trition rates from one year to the next, you can identify patterns and pinpoint 
 
 Attrition is closely related to employee turnover or churn rate. However, turnover has more to do with the culture that you create within your company and the frequency of hiring and quitting/firing. Attrition is more concerned with the big picture and the numerical change in your workforce.
 
-### Employee retention : 
+#### Employee retention : 
 
 Employee retention refers to practices, policies and the overall strategy designed to retain its best employees thus reducing the turnover. 
 
