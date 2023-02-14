@@ -1,6 +1,6 @@
 # HR-ANALYTICS-(EMPLOYEE ATTRITION-AND-RETENTION) DASHBOARD
 
-This dashboard was designed by me for HR ANALYTICS. 
+I designed this HR ANALYTICS Dashboard. 
 
 In this dashboard :
 
