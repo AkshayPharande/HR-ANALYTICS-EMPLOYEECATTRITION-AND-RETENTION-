@@ -1,6 +1,7 @@
 # HR-ANALYTICS-(EMPLOYEE ATTRITION-AND-RETENTION) DASHBOARD
 
 This dashboard was designed by me for HR ANALYTICS. 
+
 In this dashboard :
 -Created charts like Donut, Bar,scatter plot,Single Card, Stacked bar chart,cluster chart, Slicer etc. and used bookmarks to show department wise analysis.
 - work on Power Query, Power pivot and DAX functions.
